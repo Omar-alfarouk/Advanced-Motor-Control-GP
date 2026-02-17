@@ -1,1 +1,1 @@
-# Advanced-Motor-Control-GP
+# AdvancedMotorControl-GP
